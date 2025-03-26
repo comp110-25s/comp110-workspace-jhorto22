@@ -1,0 +1,3 @@
+def summit(n:int) -> int:
+    if n > 0:
+        if n%2==0:
